@@ -3,12 +3,10 @@
 __pycache__/
 *$py.class
 
-
 # VIM
 *.py.swp
 *.py~
 *.py.un~
-
 
 # virtual environment
 env/
@@ -30,6 +28,4 @@ Thumbs.db
 
 # App
 instance/
-app/**/templates/temp.html
 *.egg-info/
-app/blueprints/plotly_basics/.heatmap_example1.py.swp
